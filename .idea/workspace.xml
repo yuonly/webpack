@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e25f58c0-d7f5-49a0-974c-08ff10241e17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/wubin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entry.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note/1.webpack.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
-    </list>
+    <list default="true" id="e25f58c0-d7f5-49a0-974c-08ff10241e17" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -311,12 +301,12 @@
       <updated>1487121548914</updated>
       <workItem from="1487121550474" duration="19000" />
       <workItem from="1487121578182" duration="5581000" />
-      <workItem from="1487127608784" duration="5768000" />
+      <workItem from="1487127608784" duration="5886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11368000" />
+    <option name="totallyTimeSpent" value="11486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="477" y="136" width="1680" height="961" extended-state="0" />
